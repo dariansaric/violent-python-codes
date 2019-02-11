@@ -1,0 +1,5 @@
+pametnije parsiranje argumenata
+modul argparse
+objekt ArgumentParser(description="Opis skripte")
+add_argument(naziv, metavar='oznaka u helpu', nargs='broj argumenata(regex?)',
+help='help poruka')
